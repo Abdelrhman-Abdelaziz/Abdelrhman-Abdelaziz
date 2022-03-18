@@ -12,11 +12,12 @@
 
 <img  src="https://user-images.githubusercontent.com/85349614/158949758-bb89c624-9697-4e20-b8c1-91d3bf6c8776.gif" height="290px" align="right" />
 
-- 💻 Take a look to my first website <a href="https://thawing-everglades-97509.herokuapp.com/"> `YelpCamp` </a>
+<!-- - 💻 Take a look to my first website <a href="https://thawing-everglades-97509.herokuapp.com/"> `YelpCamp` </a> -->
+- 👨‍🎓 I'm engineering student
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m *currently learning* **React**.
+<!-- - 🌱 I’m *currently learning* **React**. -->
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
@@ -25,7 +26,7 @@
 - 💬 Ask me about anything :) 
 
 <!-- - 🙋‍♂️ All about me is at **[My Resume]()** -->
-
+<!-- 
 ## 🛠️ Technologies and Tools I use:
 
 <p>
@@ -39,7 +40,7 @@
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-</p>
+</p> -->
 
 ## 📫 How to reach me ...
 
